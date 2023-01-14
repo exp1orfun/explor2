@@ -1,0 +1,68 @@
+img {
+    text-align:center;
+    color: black;
+    border: 10px solid ; 
+    background-color:goldenrod;
+    border-radius: 60px;
+    width: 500px;
+    height: 300px;
+    margin-left: 40px;
+
+}
+
+
+h1{
+    color: black ;
+    text-align: center;
+   font-size: 70px;
+   background: ;
+   border-radius:20px ;
+   opacity: 0.79;
+}
+body {
+    background: url(https://klike.net/uploads/posts/2022-10/1664619906_v.jpg);
+    background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+    
+}
+body{
+   background-size: 1600px 1200px;
+}
+h2{
+    color: black ;
+    text-align: center;
+   font-size: 70px;
+   background: ;
+   border-radius:20px ;
+   opacity: 0.79;
+}
+h3 {
+    color: black ;
+    text-align: center;
+   font-size: 70px;
+   background: ;
+   border-radius:20px ;
+   opacity: 0.79;
+}
+h4{
+    color: black ;
+    text-align: center;
+   font-size: 70px;
+   background: ;
+   border-radius:20px ;
+   opacity: 0.79;
+}
+h5{
+    color: black ;
+    text-align: center;
+   font-size: 70px;
+   background: ;
+   border-radius:20px ;
+   opacity: 0.79;
+}
+.logotip {
+    width: 80px;
+    height: 80px;
+}
